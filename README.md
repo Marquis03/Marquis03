@@ -3,7 +3,7 @@
 </div>  
   
 
-<div align="center"><strong><font size="6">小嗷犬 (Marquis03)</font></strong></div>  
+<div align="center"><strong style="font-size:2em;">小嗷犬 (Marquis03)</strong></div>  
   
 
 - 🔭 
