@@ -50,4 +50,4 @@ I’m currently studying at [SWUFE](https://www.swufe.edu.cn/)
 
 ----
 
-<div align="center">My ![Visitor Count](https://profile-counter.glitch.me/Marquis03/count.svg) Vistor</div>  
+<div align="center">My <img src="https://profile-counter.glitch.me/Marquis03/count.svg"> Vistor</div>  
