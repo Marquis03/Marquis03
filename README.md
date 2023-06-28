@@ -50,8 +50,5 @@ I’m currently studying at [SWUFE](https://www.swufe.edu.cn/)
 
 ----
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Marquis03&&style=flat-square" align="center" />
-</div>
 
-
+![Visitor Count](https://profile-counter.glitch.me/Marquis03/count.svg)
