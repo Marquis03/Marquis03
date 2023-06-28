@@ -42,7 +42,7 @@ I’m currently studying at [SWUFE](https://www.swufe.edu.cn/)
 
 
 ## Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Marquis03&show_icons=true&count_private=true&hide_border=true" align="center" /><img src="https://stats.justsong.cn/api/csdn?id=qq_63585949"></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Marquis03&show_icons=true&count_private=true&hide_border=true"><img src="https://stats.justsong.cn/api/csdn?id=qq_63585949"></div>  
 <div align="center"> <img src="https://metrics.lecoq.io/Marquis03?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 
