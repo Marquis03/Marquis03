@@ -50,5 +50,4 @@ I’m currently studying at [SWUFE](https://www.swufe.edu.cn/)
 
 ----
 
-
-![Visitor Count](https://profile-counter.glitch.me/Marquis03/count.svg)
+<div align="center">My ![Visitor Count](https://profile-counter.glitch.me/Marquis03/count.svg) Vistor</div>  
