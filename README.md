@@ -6,8 +6,7 @@
 <div align="center"><h3>小嗷犬 (Marquis03)</h3></div>  
   
 
-- 🔭 
-I’m currently studying at [SWUFE](https://www.swufe.edu.cn/)  
+- 🔭 I’m currently studying at [SWUFE](https://www.swufe.edu.cn/)  
   
 
 - 🌱 I’m currently learning Artificial Intelligence and Finance  
