@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Artificial Intelligence and Finance  
   
 
-- ❓ Ask me about anything related to Computer Vision  
+- ❓ Ask me about anything related to Machine learning
   
 
 - ⚡ Life is short, you need Python  
