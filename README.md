@@ -1,11 +1,3 @@
-<div align="center">
-<img src="https://blog.marquis.eu.org/img/avatar/2.png" align="center" height="256" width="256" />
-</div>  
-  
-
-<div align="center"><h3>小嗷犬 (Marquis03)</h3></div>  
-  
-
 - 🔭 I’m currently studying at [SWUFE](https://www.swufe.edu.cn/)  
   
 
