@@ -1,13 +1,7 @@
-- 🔭 I’m currently studying at [SWUFE](https://www.swufe.edu.cn/)  
-  
-
-- 🌱 I’m currently learning Artificial Intelligence and Finance  
-  
-
-- ❓ Ask me about anything related to Machine learning
-  
-
-- ⚡ Life is short, you need Python  
+- 🔭 I’m currently studying at [XMU](https://www.xmu.edu.cn/)
+- 🌱 I’m currently learning Artificial Intelligence
+- ❓ Ask me about anything related to LLM
+- ⚡ Life is short, you need Python
 
 
 ## My Skill Set  
