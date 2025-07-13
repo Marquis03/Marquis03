@@ -22,9 +22,3 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Marquis03&show_icons=true&count_private=true&hide_border=true">
   <img height="180" src="https://stats.justsong.cn/api/csdn?id=qq_63585949">
 </div>  
-
-
-
-----
-
-<div align="center"><strong>My <img src="https://profile-counter.glitch.me/Marquis03/count.svg"> Vistor</strong></div>  
