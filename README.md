@@ -1,4 +1,4 @@
-- 🔭 I’m currently studying at [XMU](https://www.xmu.edu.cn/)
+- 🔭 I’m currently studying at [Xiamen University](https://www.xmu.edu.cn/)
 - 🌱 I’m currently learning Artificial Intelligence
 - ❓ Ask me about anything related to LLM
 - ⚡ Life is short, you need Python
