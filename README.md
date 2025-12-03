@@ -14,11 +14,4 @@
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-</div>  
-
-
-## Stats  
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Marquis03&show_icons=true&count_private=true&hide_border=true">
-  <img height="180" src="https://stats.justsong.cn/api/csdn?id=qq_63585949">
-</div>  
+</div>
